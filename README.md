@@ -1,8 +1,8 @@
 # Image processing app
 
-I've done this project as a technical assessment for a job interview. In the interview I couldn't complete it, I barely started on it, as I didn't prepare in Node.js, and I was shocked. I completed the task at home on my own pace, but it took me more than an hour.
-
-Still need to sort out one thing: when I save the output, it saves as the same file type, this should be changed to jpeg with a 90% quality. Initially, it saves in the same file type, but in this case, I can't specify the quality.
+I was asked to complete a very similar assessment within an interview setting but unlike to complete it, since then I took some time to understand and learn how to compress images without losing quality in Node.js.
+ 
+Whilst freelancing I acquired a very similar project to resize images for a company that had a WordPress online website and needed to resize all images.
 
 ## 1.0.1
 
